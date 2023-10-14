@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm João Paulo Vasconcelos, a dedicated developer exploring the realms of tech.
-###
+<h2 align="center">Hi 👋, I'm João Paulo Vasconcelos</h2>
+<p align="center">A passionate developer exploring the realms of technology.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=westwindd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
