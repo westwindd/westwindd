@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm João Paulo Vasconcelos.</h2>
-
+<h2 align="center">Hi 👋, I'm João Paulo Vasconcelos, a dedicated developer exploring the realms of tech.
 ###
 
 <div align="center">
