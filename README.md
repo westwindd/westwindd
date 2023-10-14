@@ -52,3 +52,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/westwindd/westwindd/output/snake.svg" alt="Snake animation" />
+
+###
