@@ -23,7 +23,11 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Install the 'canvas' module
+      # Setup Node.js and install 'canvas' module
+      - name: Setup Node.js and install 'canvas'
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
       - name: Install canvas module
         run: npm install canvas
       
@@ -36,7 +40,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
